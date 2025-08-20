@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Aseel Alshamrani  
 
-<!--
-**Aseelalshammrani/Aseelalshammrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Full Stack Developer | Integration & DevOps Automation**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages**: Python · Node.js · PHP · Java · HTML/CSS  
+- **Frameworks**: Django · Express.js · React · Bootstrap  
+- **Databases**: SQL · PostgreSQL · MongoDB · ORMs  
+- **Tools & Platforms**: GitHub · GitLab · Postman · VS Code · PyCharm  
+- **DevOps & Integration**: Apache Kafka · Elasticsearch · CI/CD  
+
+---
+
+## 📌 Featured Projects
+- 🔗 [URL Shortener](https://github.com/Aseelalshammrani/utility-of-tools.git) – Shorten and manage links with domains & expiration.  
+- 🔁 [Gateway Manager API](https://github.com/Aseelalshammrani/gitlab-manager.git) – Automates GitLab/GitHub repo sync across multiple repositories.  
+- 🖼️ [Image Compression API](https://github.com/Aseelalshammrani/utility-of-tools.git) – Compress and optimize images efficiently (supports JPG/PNG/WebP).  
+- 📡 [Kafka → Elasticsearch](https://github.com/Aseelalshammrani/kafka-elastic-consumer.git) – Real-time log pipeline to Elastic Cloud.  
+
+---
+
